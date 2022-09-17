@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @eliakatz
-- 👀 I’m interested in machine learning
+- 👋 Hi, I’m Eliana Katz
+- I graduated Data science course, and starting my new career.
+- I'm especially interested in ML (CV in particular) and IoT.
 
-- 📫 How to reach me ek.info1@gmail.com
+- 📫 eliakat07@gmail.com
 
 <!---
 eliakatz/eliakatz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

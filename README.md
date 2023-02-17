@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Eliana Katz
-- I graduated Data science course, and starting my new career.
+- I'm starting my new career as a data scientist.
+- My first real-world project is the [Smart-scarecrow](https://github.com/eliakatz/bird_buzzer), which won a project competition - DS category.
 - I'm especially interested in ML (CV in particular) and IoT.
 
 - 📫 eliakat07@gmail.com
